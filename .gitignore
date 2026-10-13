@@ -1,0 +1,10 @@
+﻿# Original script backup
+BatchResizeV2Original.jsx
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Editor backup files
+*.bak
+*.tmp
